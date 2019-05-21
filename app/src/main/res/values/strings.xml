@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UTS 10116184</string>
+    <string name="profile">Profil</string>
+    <string name="kontak">Kontak</string>
+    <string name="teman">Teman</string>
+
+
+    <string name="fragment_profil">fragment profile</string>
+    <string name="fragment_kontak">fragment kontak</string>
+    <string name="fragment_teman">fragment teman</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="instagram">: <a href="https://www.instagram.com/ferian_ez">ferian_ez</a></string>
+    <string name="line">: <a href="http://line.me/ti/p/~ferian_ezra">ferian_ezra</a></string>
+    <string name="gmail">: <a href="mailto:ferianezra@gmail.com">feianezra@gmail.com</a></string>
+</resources>
